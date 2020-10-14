@@ -1,3 +1,3 @@
-# Machine Ocean Website
+# WeaMyL Website
 
-This is the repository for [metno.github.io/MachineOcean-website](https://metno.github.io/MachineOcean-website/).
+This is the repository for WeaMyL

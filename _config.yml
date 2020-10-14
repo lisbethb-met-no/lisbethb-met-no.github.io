@@ -13,19 +13,18 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Machine Ocean
-subtitle: Funded by The Research Council of Norway
+title: WeaMyL
+subtitle: Funded by ...
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Combining Machine Learning and Earth Observations to Improve
-  Simulations of Turbulent Behaviour in the Earth System
+  Combining Machine Learning ...
 # twitter_username: username
 # github_username: username
-repository: "metno/MachineOcean-website"
+repository: "metno/..."
 title_separator: "-"
 minimal_mistakes_skin: default
 search: false
-logo: "/assets/images/mo-logo.png"
+logo: "/assets/images/logo.png"
 
 # Build settings
 markdown: kramdown
@@ -77,19 +76,7 @@ footer:
     - label: "MET Norway"
       icon: "fas fa-fw fa-water"
       url: "https://met.no/"
-    - label: "University of Oslo"
-      icon: "fas fa-fw fa-university"
-      url: "https://uio.no/"
-    - label: "Uppsala University"
-      icon: "fas fa-fw fa-university"
-      url: "https://www.uu.se/"
-    - label: "WHOI"
-      icon: "fas fa-fw fa-water"
-      url: "https://www.whoi.edu/"
-    - label: "Website Source"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/metno/MachineOcean-website"
-
+ 
 defaults:
   # _posts
   - scope:

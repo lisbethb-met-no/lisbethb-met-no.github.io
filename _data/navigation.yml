@@ -7,7 +7,7 @@ main:
 page_links:
   - title: Pages
     children:
-    - title: About Machine Ocean
+    - title: About WeaMyL
       url: /about/
     - title: Project Resources
       url: /resources/
@@ -15,9 +15,8 @@ page_links:
     children:
     - title: MET Norway
       url: https://met.no/
-    - title: University of Oslo
-      url: https://uio.no/
-    - title: Uppsala University
-      url: https://www.uu.se/
-    - title: WHOI
-      url: https://www.whoi.edu/
+    - title: XXX
+      url: https://xxx/
+    - title: YYY
+      url: https://yyy/
+
