@@ -24,7 +24,7 @@ repository: "metno/..."
 title_separator: "-"
 minimal_mistakes_skin: default
 search: false
-logo: "/assets/images/logo.png"
+logo: "/assets/images/LogoMyLFinal-01.png"
 
 # Build settings
 markdown: kramdown
@@ -71,7 +71,7 @@ author:
       url: "https://"
 
 footer:
-  image: /assets/images/footer-institutions.png
+  image: /assets/images/LogoMyLFinal-01.png
   links:
     - label: "MET Norway"
       icon: "fas fa-fw fa-water"
