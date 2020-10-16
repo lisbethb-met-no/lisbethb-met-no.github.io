@@ -1,3 +1,3 @@
 # WeaMyL Website
 
-This is the repository for WeaMyL
+This is the repository for WeaMyL webpages
